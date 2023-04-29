@@ -1,0 +1,19 @@
+
+body{
+	background-image: url(bg.jpg);
+	background-size: auto;
+}
+
+li{
+	color:orange;
+}
+p{
+	color: yellow;
+	border: solid 5px purple;
+	text-align: center;
+}
+
+.webtext{
+	border: 7px dashed green;
+	background-color: pink;
+}
